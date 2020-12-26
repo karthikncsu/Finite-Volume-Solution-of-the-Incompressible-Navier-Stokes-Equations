@@ -1,0 +1,168 @@
+//Function for reading the objects and corresponding coordinates
+
+#include "functions.h"
+
+void reading_objects()
+{
+
+/*
+//---------------------------------------
+//Reading the objects file
+//---------------------------------------
+string line;
+ifstream fin;
+fin.open("objectsfile.dat");
+    // Check for successful opening of file
+    if(fin.fail())
+    {
+       cout<<"Error Opening File: "<<"objectsfile.dat"<<endl;
+       exit(1);
+    }
+
+fin>>nobjs;
+nlist=new int[nobjs];
+
+int maxpoints=-10;
+int dummy;
+
+for(int n=0;n<nobjs;n++)
+{
+fin>>nlist[n];
+maxpoints=max(maxpoints,nlist[n]);
+}
+
+xs=new double* [maxpoints];
+ys=new double* [maxpoints];
+xnxs=new double* [maxpoints];
+xnys=new double* [maxpoints];
+
+for(int i=0;i<maxpoints;i++)
+{
+xs[i]=new double[nobjs];
+ys[i]=new double[nobjs];
+xnxs[i]=new double[nobjs];
+xnys[i]=new double[nobjs];
+}
+
+for(int n=0;n<nobjs;n++)
+{
+fin>>dummy;
+for(int npoint=0;npoints<nlist[n];npoints++)
+fin>>xs[npoint][n]>>ys[npoint][n]>>xnxs[npoint][n]>>xnys[npoint][n];
+}
+fin.close();
+
+//---------------------------------------
+// End of reading the objects file
+//---------------------------------------
+*/
+      int trialp=2000;
+      nobjs = 1;
+      nlist=new int[nobjs];
+      int maxpoints=trialp;
+      power = 0.5;
+      nlist[0] = trialp;
+     // nlist[1] = trialp;
+	  xs=new double* [maxpoints];
+	  ys=new double* [maxpoints];
+	  xnxs=new double* [maxpoints];
+	  xnys=new double* [maxpoints];
+
+	  for(int i=0;i<maxpoints;i++)
+	  {
+	  xs[i]=new double[nobjs];
+	  ys[i]=new double[nobjs];
+	  xnxs[i]=new double[nobjs];
+	  xnys[i]=new double[nobjs];
+	  }
+	  
+      double rad = 0.04;
+      double xcnt = 0.2;
+      double ycnt = 0.2;
+      double thet;
+      double pi = 4.0*atan(1.0);
+      for(int k=0;k<maxpoints;k++)
+      {
+       thet = 2.0*pi*(double)(k-1)/trialp;
+       xs[k][0] = rad*cos(thet) + xcnt;
+       ys[k][0] = rad*sin(thet) + ycnt;
+       xnxs[k][0] = cos(thet);
+       xnys[k][0] = sin(thet);
+       cout<<xs[k][0]<<" "<<ys[k][0]<<" "<<xnxs[k][0]<<" "<<xnys[k][0]<<endl;
+      }
+
+
+/*      rad = 0.125;
+      xcnt = 0.75;
+      ycnt = 0.75;
+      pi = 4.0*atan(1.0);
+      for(int k=1; k<trialp;k++)
+      {
+       thet = 2.0*pi*(k-1)/trialp;
+       xs[k][1] = rad*cos(thet) + xcnt;
+       ys[k][1] = rad*sin(thet) + ycnt;
+       xnxs[k][1] = cos(thet);
+       xnys[k][1] = sin(thet);
+      }
+*/
+//c ---- variable allocations
+
+nintpts = 8; //Number of cells surrounding a cell 
+
+//------------------------------------------------------
+//Allocating memory for immerssed boundary method
+//------------------------------------------------------
+
+dist=new double** [imax+1];
+distg=new double* [imax+1];
+hh=new double* [imax+1];
+weight=new double** [imax+1];
+acoef=new double* [imax+1];
+bcoef=new double* [imax+1];
+itag=new int** [imax+1];
+lpri=new int* [imax+1];
+idif=new int[nintpts];
+jdif=new int[nintpts];
+
+for(int i=0;i<imax+1;i++)
+{
+dist[i]=new double* [jmax+1];
+distg[i]=new double[jmax+1];
+hh[i]=new double[jmax+1];
+weight[i]=new double* [jmax+1];
+acoef[i]=new double[jmax+1];
+bcoef[i]=new double[jmax+1];
+itag[i]=new int* [jmax+1];
+lpri[i]=new int[jmax+1];
+}
+
+for(int j=0;j<jmax+1;j++)
+for(int i=0;i<imax+1;i++)
+{
+dist[i][j]=new double[nobjs];
+weight[i][j]=new double[nintpts];
+itag[i][j]=new int[nobjs];
+}
+
+      idif[0] = -1;
+      jdif[0] = 1;
+      idif[1] = 0;
+      jdif[1] = 1;
+      idif[2] = 1;
+      jdif[2] = 1;
+      idif[3] = 1;
+      jdif[3] = 0;
+      idif[4] = 1;
+      jdif[4] = -1;
+      idif[5] = 0;
+      jdif[6] = -1;
+      idif[7] = -1;
+      jdif[7] = -1;
+      idif[8] = -1;
+      jdif[8] = 0;
+
+//------------------------------------------------------
+//End of allocating memory for immerssed boundary method
+//------------------------------------------------------
+
+}

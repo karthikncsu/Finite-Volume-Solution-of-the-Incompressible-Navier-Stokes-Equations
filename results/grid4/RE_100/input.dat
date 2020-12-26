@@ -1,0 +1,39 @@
+//Input file to the program
+grid4.dat //Mesh FileName(name should be without spaces)
+2 //Integer input: For Discretizing the Viscous terms 1:Thin Layer Method 2:tangent/normal Method
+3 //Integer input: Boundary Condition Type for right boundary 0:No slip 1: Slip 2: Normal Inflow 3: Normal outflow
+0 // For inflow or outflow, 0: Velocity 1: pressure
+0.0000  //Float input: Value of the condition for right boundary
+0 //Integer input: Boundary Condition Type for top boundary 0:No slip 1: Slip 2:inflow 3: outflow
+0 // For inflow or outflow, 0: Velocity 1:pressure
+0.00   //Float input: Value of the condition for top boundary
+2 //Integer input: Boundary Condition Type for left boundary 0:No slip 1: Slip 2:inflow 3: outflow
+0 // For inflow or outflow, 0: Velocity 1:pressure
+1.00   //Float input: Value of the condition for left boundary
+0 //Integer input: Boundary Condition Type for bottom boundary 0:No slip 1: Slip 2:inflow 3: outflow
+0.00 // For inflow or outflow, 0: Max Velocity 1:pressure
+0.000   //Float input: Value of the condition for bottom boundary
+3000000 //Integer Input: Maximum Number of iterations
+1e-3 //Float Input: Relative Tolernace for Continuity
+1e-4 //Float Input: Relative Tolernace for Momentum
+1.0 //Density
+1.0 //Parameter sweep: Number of viscous parameters to solve in a single go: paras 
+6.667e-3 //Dynamic Viscosity
+2 //Variable indicating the accuracy using TVD, 0:first order 1:simple avg 2:minmod avg
+0.2 //CFL number
+0.6667 //Reference velocity for calculaitng beta
+1.0 //Reference length
+3.0 //Provision for applying time step 1: Global, min of local time step 2: Global, physics based 3: locally varying time step
+1.0 //1: Not a restart 2: Restart is implemented only for steady state and when paras=1
+1.0 //1: not Immeressed boundary method 2: Immerssed boundary method
+1.0 //1: Solving for steady state, 2: Time accurate methods
+0.0 //time start: tstart
+0.1 //user time step: tstep
+10.0 //End time end: tend
+10 //(nsave)Solution save 
+5 //Number of points(x,y coordinates) to monitor solution in time accurate method for determining steady state
+0.25 0.25
+0.75 0.25
+0.75 0.75
+0.25 0.75
+0.5 0.5

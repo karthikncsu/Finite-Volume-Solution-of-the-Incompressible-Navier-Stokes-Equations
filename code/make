@@ -1,0 +1,61 @@
+all: project
+
+project: main.o read_input.o reading_grid.o triangle_area.o initial_conditions.o boundary_conditions.o incomp_navier_stokes.o thin_layer.o tangent_normal.o min.o max.o results.o timeaccurate_function.o reading_objects.o cell_classification.o immersed_boundary.o sign.o timeaccurate_ib_method.o
+	g++  main.o read_input.o reading_grid.o triangle_area.o initial_conditions.o boundary_conditions.o incomp_navier_stokes.o thin_layer.o tangent_normal.o min.o max.o results.o timeaccurate_function.o reading_objects.o cell_classification.o immersed_boundary.o sign.o timeaccurate_ib_method.o -o project
+
+main.o: main.cpp
+	g++ -c main.cpp
+
+read_input.o: read_input.cpp
+	g++ -c read_input.cpp
+	
+reading_grid.o: reading_grid.cpp
+	g++ -c reading_grid.cpp
+
+triangle_area.o: triangle_area.cpp
+	g++ -c triangle_area.cpp
+	
+reading_objects.o: reading_objects.cpp
+	g++ -c reading_objects.cpp
+
+cell_classification.o: cell_classification.cpp
+	g++ -c cell_classification.cpp
+
+immersed_boundary.o: immersed_boundary.cpp
+	g++ -c immersed_boundary.cpp
+	
+initial_conditions.o: initial_conditions.cpp
+	g++ -c initial_conditions.cpp
+
+boundary_conditions.o: boundary_conditions.cpp
+	g++ -c boundary_conditions.cpp
+
+incomp_navier_stokes.o: incomp_navier_stokes.cpp
+	g++ -c incomp_navier_stokes.cpp
+
+tanget_normal.o: tangent_normal.cpp
+	g++ -c tangent_normal.cpp
+
+thin_layer.o: thin_layer.cpp
+	g++ -c thin_layer.cpp
+
+timeaccurate_function.o: timeaccurate_function.cpp
+	g++ -c timeaccurate_function.cpp	
+
+timeaccurate_ib_method.o: timeaccurate_ib_method.cpp
+	g++ -c timeaccurate_ib_method.cpp
+
+	
+min.o: min.cpp
+	g++ -c min.cpp
+
+max.o: max.cpp
+	g++ -c max.cpp
+	
+results.o: results.cpp
+	g++ -c results.cpp
+	
+sign.o: sign.cpp
+	g++ -c sign.cpp
+
+clean: rm *o project

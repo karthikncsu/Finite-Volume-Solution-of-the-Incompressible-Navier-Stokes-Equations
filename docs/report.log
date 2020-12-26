@@ -1,0 +1,1023 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.25)  26 DEC 2020 01:04
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/elsarticle\
+elsarticle.cls
+Document Class: elsarticle 2020/11/20, 3.3: Elsevier Ltd
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\ex
+pl3.sty
+Package: expl3 2020-12-07 L3 programming layer (loader) 
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l
+3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box47
+))
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/
+xparse\xparse.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/
+xparse\xparse-generic.tex))
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\et
+oolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count178
+)
+\@bls=\dimen138
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/base\articl
+e.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/base\size12
+.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gr
+aphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/graphics\ke
+yval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gr
+aphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tr
+ig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cf
+g\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/graphics-de
+f\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+\c@tnote=\count187
+\c@fnote=\count188
+\c@cnote=\count189
+\c@ead=\count190
+\c@author=\count191
+\@eadauthor=\toks16
+\c@affn=\count192
+\absbox=\box48
+\elsarticlehighlightsbox=\box49
+\elsarticlegrabsbox=\box50
+\keybox=\box51
+\Columnwidth=\dimen142
+\space@left=\dimen143
+\els@boxa=\box52
+\els@boxb=\box53
+\leftMargin=\dimen144
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ (report.spl)
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natb
+ib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count193
+)
+\splwrite=\write3
+\openout3 = `report.spl'.
+
+\appnamewidth=\dimen145
+)
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\am
+ssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\am
+sfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/lineno\line
+no.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count194
+\output=\toks19
+\linenoprevgraf=\count195
+\linenumbersep=\dimen146
+\linenumberwidth=\dimen147
+\c@linenumber=\count196
+\c@pagewiselinenumber=\count197
+\c@LN@truepage=\count198
+\c@internallinenumber=\count199
+\c@internallinenumbers=\count266
+\quotelinenumbersep=\dimen148
+\bframerule=\dimen149
+\bframesep=\dimen150
+\bframebox=\box54
+LaTeX Info: Redefining \\ on input line 3056.
+) (report.aux
+
+LaTeX Warning: Label `S:2' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/context/base/mkii
+\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen151
+\scratchbox=\box55
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen152
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pk
+g\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\um
+sa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+
+
+(C:\Users\Aaradhya-quadcore\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\um
+sb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<finite_difference_grids.png, id=1, 1204.5pt x 401.5pt>
+File: finite_difference_grids.png Graphic file (type png)
+<use finite_difference_grids.png>
+Package pdftex.def Info: finite_difference_grids.png  used on input line 67.
+(pdftex.def)             Requested size: 390.0pt x 130.00195pt.
+
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{C:/Users/Aaradhya-quadcore/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./f
+inite_difference_grids.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<phi_grid.png, id=11, 123.3408pt x 93.4692pt>
+File: phi_grid.png Graphic file (type png)
+<use phi_grid.png>
+Package pdftex.def Info: phi_grid.png  used on input line 104.
+(pdftex.def)             Requested size: 312.00119pt x 236.49205pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2] [3 <./phi_grid.png>]
+Overfull \hbox (14.51385pt too wide) in paragraph at lines 150--151
+[]\OT1/cmr/m/n/12 Incompressible Navier stokes equa-tion us-ing ar-ti-fi-cial c
+om-press-ibil-ity method
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<grid_50_50.png, id=26, 499.11469pt x 456.20438pt>
+File: grid_50_50.png Graphic file (type png)
+<use grid_50_50.png>
+Package pdftex.def Info: grid_50_50.png  used on input line 154.
+(pdftex.def)             Requested size: 272.99881pt x 249.53487pt.
+<grid_100_100.png, id=27, 475.7775pt x 438.8897pt>
+File: grid_100_100.png Graphic file (type png)
+<use grid_100_100.png>
+Package pdftex.def Info: grid_100_100.png  used on input line 156.
+(pdftex.def)             Requested size: 272.99881pt x 251.84395pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5 <./grid_50_50.png> <./grid_100_100.png>]
+<grid3.jpeg, id=34, 437.38406pt x 180.675pt>
+File: grid3.jpeg Graphic file (type jpg)
+<use grid3.jpeg>
+Package pdftex.def Info: grid3.jpeg  used on input line 162.
+(pdftex.def)             Requested size: 272.99881pt x 112.76996pt.
+<grid4.jpeg, id=35, 443.40656pt x 145.29282pt>
+File: grid4.jpeg Graphic file (type jpg)
+<use grid4.jpeg>
+Package pdftex.def Info: grid4.jpeg  used on input line 164.
+(pdftex.def)             Requested size: 272.99881pt x 89.45984pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--181
+
+ []
+
+[6
+
+ <./grid3.jpeg> <./grid4.jpeg>]
+<1_50_50_re_100_velocity_linear.jpeg, id=40, 502.12593pt x 430.60875pt>
+File: 1_50_50_re_100_velocity_linear.jpeg Graphic file (type jpg)
+<use 1_50_50_re_100_velocity_linear.jpeg>
+Package pdftex.def Info: 1_50_50_re_100_velocity_linear.jpeg  used on input lin
+e 184.
+(pdftex.def)             Requested size: 312.00119pt x 267.57915pt.
+<2_50_50_re_100_velocity_tvd.jpeg, id=41, 511.9125pt x 438.13687pt>
+File: 2_50_50_re_100_velocity_tvd.jpeg Graphic file (type jpg)
+<use 2_50_50_re_100_velocity_tvd.jpeg>
+Package pdftex.def Info: 2_50_50_re_100_velocity_tvd.jpeg  used on input line 1
+87.
+(pdftex.def)             Requested size: 312.00119pt x 267.03578pt.
+
+
+LaTeX Warning: Float too large for page by 30.94826pt on input line 188.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<5_uvalues_tvd_linear_re_100_50_50.jpg, id=42, 790.45313pt x 501.37312pt>
+File: 5_uvalues_tvd_linear_re_100_50_50.jpg Graphic file (type jpg)
+<use 5_uvalues_tvd_linear_re_100_50_50.jpg>
+Package pdftex.def Info: 5_uvalues_tvd_linear_re_100_50_50.jpg  used on input l
+ine 192.
+(pdftex.def)             Requested size: 390.0pt x 247.37334pt.
+<6_vvalues_tvd_linear_re_100_50_50.jpg, id=43, 800.23969pt x 507.39563pt>
+File: 6_vvalues_tvd_linear_re_100_50_50.jpg Graphic file (type jpg)
+<use 6_vvalues_tvd_linear_re_100_50_50.jpg>
+Package pdftex.def Info: 6_vvalues_tvd_linear_re_100_50_50.jpg  used on input l
+ine 194.
+(pdftex.def)             Requested size: 390.0pt x 247.28662pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<3_rr_tvd_linear_re_100_50_50.jpg, id=44, 797.98125pt x 502.12593pt>
+File: 3_rr_tvd_linear_re_100_50_50.jpg Graphic file (type jpg)
+<use 3_rr_tvd_linear_re_100_50_50.jpg>
+Package pdftex.def Info: 3_rr_tvd_linear_re_100_50_50.jpg  used on input line 1
+99.
+(pdftex.def)             Requested size: 390.0pt x 245.40793pt.
+<4_ar_tvd_linear_re_100_50_50.jpg, id=45, 800.9925pt x 508.14844pt>
+File: 4_ar_tvd_linear_re_100_50_50.jpg Graphic file (type jpg)
+<use 4_ar_tvd_linear_re_100_50_50.jpg>
+Package pdftex.def Info: 4_ar_tvd_linear_re_100_50_50.jpg  used on input line 2
+01.
+(pdftex.def)             Requested size: 390.0pt x 247.4209pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7] [8 <./1_50_50_re_100_velocity_linear.jpeg> <./2_50_50_re_100_velocity_tvd.j
+peg>] [9 <./5_uvalues_tvd_linear_re_100_50_50.jpg> <./6_vvalues_tvd_linear_re_1
+00_50_50.jpg>] [10 <./3_rr_tvd_linear_re_100_50_50.jpg> <./4_ar_tvd_linear_re_1
+00_50_50.jpg>]
+<7_100_100_re_100_velocity_linear.jpeg, id=59, 505.13719pt x 432.86719pt>
+File: 7_100_100_re_100_velocity_linear.jpeg Graphic file (type jpg)
+<use 7_100_100_re_100_velocity_linear.jpeg>
+Package pdftex.def Info: 7_100_100_re_100_velocity_linear.jpeg  used on input l
+ine 207.
+(pdftex.def)             Requested size: 350.99762pt x 300.78568pt.
+<8_100_100_re_100_velocity_tvd.jpeg, id=60, 517.18219pt x 436.63126pt>
+File: 8_100_100_re_100_velocity_tvd.jpeg Graphic file (type jpg)
+<use 8_100_100_re_100_velocity_tvd.jpeg>
+Package pdftex.def Info: 8_100_100_re_100_velocity_tvd.jpeg  used on input line
+ 209.
+(pdftex.def)             Requested size: 350.99762pt x 296.33902pt.
+
+
+LaTeX Warning: Float too large for page by 93.45802pt on input line 210.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<11_uvalues_tvd_linear_re_100_100_100.jpg, id=61, 817.55438pt x 510.40688pt>
+File: 11_uvalues_tvd_linear_re_100_100_100.jpg Graphic file (type jpg)
+<use 11_uvalues_tvd_linear_re_100_100_100.jpg>
+Package pdftex.def Info: 11_uvalues_tvd_linear_re_100_100_100.jpg  used on inpu
+t line 214.
+(pdftex.def)             Requested size: 390.0pt x 243.48161pt.
+<12_vvalues_tvd_linear_re_100_100_100.jpg, id=62, 821.31844pt x 488.57532pt>
+File: 12_vvalues_tvd_linear_re_100_100_100.jpg Graphic file (type jpg)
+<use 12_vvalues_tvd_linear_re_100_100_100.jpg>
+Package pdftex.def Info: 12_vvalues_tvd_linear_re_100_100_100.jpg  used on inpu
+t line 216.
+(pdftex.def)             Requested size: 390.0pt x 231.99368pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<9_rr_linear_re_100_100_100.jpg, id=63, 797.98125pt x 499.8675pt>
+File: 9_rr_linear_re_100_100_100.jpg Graphic file (type jpg)
+<use 9_rr_linear_re_100_100_100.jpg>
+Package pdftex.def Info: 9_rr_linear_re_100_100_100.jpg  used on input line 222
+.
+(pdftex.def)             Requested size: 390.0pt x 244.30414pt.
+<10_ar_linear_re_100_100_100.jpg, id=64, 794.97pt x 506.6428pt>
+File: 10_ar_linear_re_100_100_100.jpg Graphic file (type jpg)
+<use 10_ar_linear_re_100_100_100.jpg>
+Package pdftex.def Info: 10_ar_linear_re_100_100_100.jpg  used on input line 22
+4.
+(pdftex.def)             Requested size: 390.0pt x 248.55864pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<15_uvel_mesh_comparision.jpg, id=65, 779.16093pt x 504.38437pt>
+File: 15_uvel_mesh_comparision.jpg Graphic file (type jpg)
+<use 15_uvel_mesh_comparision.jpg>
+Package pdftex.def Info: 15_uvel_mesh_comparision.jpg  used on input line 229.
+(pdftex.def)             Requested size: 390.0pt x 252.46092pt.
+<16_vvel_mesh_comparision.jpg, id=66, 800.9925pt x 503.63156pt>
+File: 16_vvel_mesh_comparision.jpg Graphic file (type jpg)
+<use 16_vvel_mesh_comparision.jpg>
+Package pdftex.def Info: 16_vvel_mesh_comparision.jpg  used on input line 231.
+(pdftex.def)             Requested size: 390.0pt x 245.2216pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<13rr_mesh_comparision.jpg, id=67, 801.74532pt x 502.12593pt>
+File: 13rr_mesh_comparision.jpg Graphic file (type jpg)
+<use 13rr_mesh_comparision.jpg>
+Package pdftex.def Info: 13rr_mesh_comparision.jpg  used on input line 236.
+(pdftex.def)             Requested size: 390.0pt x 244.25865pt.
+<14_ar_mesh_comparision.jpg, id=68, 798.73407pt x 503.63156pt>
+File: 14_ar_mesh_comparision.jpg Graphic file (type jpg)
+<use 14_ar_mesh_comparision.jpg>
+Package pdftex.def Info: 14_ar_mesh_comparision.jpg  used on input line 238.
+(pdftex.def)             Requested size: 390.0pt x 245.91324pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<17_50_50_re_100_TVD_stream_vorticity.jpeg, id=69, 450.9347pt x 419.31656pt>
+File: 17_50_50_re_100_TVD_stream_vorticity.jpeg Graphic file (type jpg)
+<use 17_50_50_re_100_TVD_stream_vorticity.jpeg>
+Package pdftex.def Info: 17_50_50_re_100_TVD_stream_vorticity.jpeg  used on inp
+ut line 243.
+(pdftex.def)             Requested size: 312.00119pt x 290.1413pt.
+<18_50_50_re_100_TVD_stream.png, id=70, 432.86719pt x 420.82219pt>
+File: 18_50_50_re_100_TVD_stream.png Graphic file (type png)
+<use 18_50_50_re_100_TVD_stream.png>
+Package pdftex.def Info: 18_50_50_re_100_TVD_stream.png  used on input line 245
+.
+(pdftex.def)             Requested size: 312.00119pt x 303.33206pt.
+
+LaTeX Warning: Float too large for page by 89.80669pt on input line 247.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <./7_100_100_re_100_velocity_linear.jpeg> <./8_100_100_re_100_velocity_tvd.
+jpeg>] [12 <./11_uvalues_tvd_linear_re_100_100_100.jpg> <./12_vvalues_tvd_linea
+r_re_100_100_100.jpg>] [13 <./9_rr_linear_re_100_100_100.jpg> <./10_ar_linear_r
+e_100_100_100.jpg>] [14 <./15_uvel_mesh_comparision.jpg> <./16_vvel_mesh_compar
+ision.jpg>] [15 <./13rr_mesh_comparision.jpg> <./14_ar_mesh_comparision.jpg>]
+[16 <./17_50_50_re_100_TVD_stream_vorticity.jpeg> <./18_50_50_re_100_TVD_stream
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 250--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--257
+
+ []
+
+[17
+
+
+]
+<19_50_50_re_250_velocity_linear.jpeg, id=93, 512.66531pt x 425.33907pt>
+File: 19_50_50_re_250_velocity_linear.jpeg Graphic file (type jpg)
+<use 19_50_50_re_250_velocity_linear.jpeg>
+Package pdftex.def Info: 19_50_50_re_250_velocity_linear.jpeg  used on input li
+ne 262.
+(pdftex.def)             Requested size: 350.99762pt x 291.2127pt.
+<20_50_50_re_250_velocity_tvd.jpeg, id=94, 503.63156pt x 426.09187pt>
+File: 20_50_50_re_250_velocity_tvd.jpeg Graphic file (type jpg)
+<use 20_50_50_re_250_velocity_tvd.jpeg>
+Package pdftex.def Info: 20_50_50_re_250_velocity_tvd.jpeg  used on input line 
+264.
+(pdftex.def)             Requested size: 350.99762pt x 296.95544pt.
+
+
+LaTeX Warning: Float too large for page by 84.50148pt on input line 265.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<21_uvalues_tvd_linear_re_250_50_50.jpg, id=95, 795.72281pt x 505.89pt>
+File: 21_uvalues_tvd_linear_re_250_50_50.jpg Graphic file (type jpg)
+<use 21_uvalues_tvd_linear_re_250_50_50.jpg>
+Package pdftex.def Info: 21_uvalues_tvd_linear_re_250_50_50.jpg  used on input 
+line 270.
+(pdftex.def)             Requested size: 390.0pt x 247.94229pt.
+<22_vvalues_tvd_linear_re_250_50_50.jpg, id=96, 798.73407pt x 499.11469pt>
+File: 22_vvalues_tvd_linear_re_250_50_50.jpg Graphic file (type jpg)
+<use 22_vvalues_tvd_linear_re_250_50_50.jpg>
+Package pdftex.def Info: 22_vvalues_tvd_linear_re_250_50_50.jpg  used on input 
+line 272.
+(pdftex.def)             Requested size: 390.0pt x 243.70773pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<23_rr_tvd_linear_re_250_50_50.jpg, id=97, 804.75656pt x 511.9125pt>
+File: 23_rr_tvd_linear_re_250_50_50.jpg Graphic file (type jpg)
+<use 23_rr_tvd_linear_re_250_50_50.jpg>
+Package pdftex.def Info: 23_rr_tvd_linear_re_250_50_50.jpg  used on input line 
+277.
+(pdftex.def)             Requested size: 390.0pt x 248.08199pt.
+<24_ar_tvd_linear_re_250_50_50.jpg, id=98, 802.49812pt x 506.6428pt>
+File: 24_ar_tvd_linear_re_250_50_50.jpg Graphic file (type jpg)
+<use 24_ar_tvd_linear_re_250_50_50.jpg>
+Package pdftex.def Info: 24_ar_tvd_linear_re_250_50_50.jpg  used on input line 
+279.
+(pdftex.def)             Requested size: 390.0pt x 246.22397pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] [19 <./19_50_50_re_250_velocity_linear.jpeg> <./20_50_50_re_250_velocity_t
+vd.jpeg>] [20 <./21_uvalues_tvd_linear_re_250_50_50.jpg> <./22_vvalues_tvd_line
+ar_re_250_50_50.jpg>] [21 <./23_rr_tvd_linear_re_250_50_50.jpg> <./24_ar_tvd_li
+near_re_250_50_50.jpg>]
+<25_100_100_re_250_velocity_linear.jpeg, id=112, 503.63156pt x 428.35031pt>
+File: 25_100_100_re_250_velocity_linear.jpeg Graphic file (type jpg)
+<use 25_100_100_re_250_velocity_linear.jpeg>
+Package pdftex.def Info: 25_100_100_re_250_velocity_linear.jpeg  used on input 
+line 288.
+(pdftex.def)             Requested size: 350.99762pt x 298.52942pt.
+<26_100_100_re_250_velocity_tvd.jpeg, id=113, 516.42938pt x 429.10312pt>
+File: 26_100_100_re_250_velocity_tvd.jpeg Graphic file (type jpg)
+<use 26_100_100_re_250_velocity_tvd.jpeg>
+Package pdftex.def Info: 26_100_100_re_250_velocity_tvd.jpeg  used on input lin
+e 290.
+(pdftex.def)             Requested size: 350.99762pt x 291.6553pt.
+
+
+LaTeX Warning: Float too large for page by 86.51805pt on input line 291.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<27_uvalues_tvd_linear_re_250_100_100.jpg, id=114, 808.52063pt x 502.87875pt>
+File: 27_uvalues_tvd_linear_re_250_100_100.jpg Graphic file (type jpg)
+<use 27_uvalues_tvd_linear_re_250_100_100.jpg>
+Package pdftex.def Info: 27_uvalues_tvd_linear_re_250_100_100.jpg  used on inpu
+t line 295.
+(pdftex.def)             Requested size: 390.0pt x 242.56842pt.
+<28_vvalues_tvd_linear_re_250_100_100.jpg, id=115, 830.35219pt x 502.12593pt>
+File: 28_vvalues_tvd_linear_re_250_100_100.jpg Graphic file (type jpg)
+<use 28_vvalues_tvd_linear_re_250_100_100.jpg>
+Package pdftex.def Info: 28_vvalues_tvd_linear_re_250_100_100.jpg  used on inpu
+t line 297.
+(pdftex.def)             Requested size: 390.0pt x 235.83832pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<29_rr_tvd_linear_re_250_100_100.jpg, id=116, 796.47563pt x 505.13719pt>
+File: 29_rr_tvd_linear_re_250_100_100.jpg Graphic file (type jpg)
+<use 29_rr_tvd_linear_re_250_100_100.jpg>
+Package pdftex.def Info: 29_rr_tvd_linear_re_250_100_100.jpg  used on input lin
+e 303.
+(pdftex.def)             Requested size: 390.0pt x 247.3421pt.
+<30_ar_tvd_linear_re_250_100_100.jpg, id=117, 813.0375pt x 505.89pt>
+File: 30_ar_tvd_linear_re_250_100_100.jpg Graphic file (type jpg)
+<use 30_ar_tvd_linear_re_250_100_100.jpg>
+Package pdftex.def Info: 30_ar_tvd_linear_re_250_100_100.jpg  used on input lin
+e 305.
+(pdftex.def)             Requested size: 390.0pt x 242.66232pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<33_uvel_mesh_re_250_comparision.jpg, id=118, 776.9025pt x 500.62032pt>
+File: 33_uvel_mesh_re_250_comparision.jpg Graphic file (type jpg)
+<use 33_uvel_mesh_re_250_comparision.jpg>
+Package pdftex.def Info: 33_uvel_mesh_re_250_comparision.jpg  used on input lin
+e 310.
+(pdftex.def)             Requested size: 390.0pt x 251.31023pt.
+<34_vvel_mesh_re_250_comparision.jpg, id=119, 791.20593pt x 505.89pt>
+File: 34_vvel_mesh_re_250_comparision.jpg Graphic file (type jpg)
+<use 34_vvel_mesh_re_250_comparision.jpg>
+Package pdftex.def Info: 34_vvel_mesh_re_250_comparision.jpg  used on input lin
+e 312.
+(pdftex.def)             Requested size: 390.0pt x 249.36264pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<31_rr_mesh_re_250_comparision.jpg, id=120, 778.40813pt x 503.63156pt>
+File: 31_rr_mesh_re_250_comparision.jpg Graphic file (type jpg)
+<use 31_rr_mesh_re_250_comparision.jpg>
+Package pdftex.def Info: 31_rr_mesh_re_250_comparision.jpg  used on input line 
+317.
+(pdftex.def)             Requested size: 390.0pt x 252.33772pt.
+<32_ar_mesh_re_250_comparision.jpg, id=121, 802.49812pt x 515.67656pt>
+File: 32_ar_mesh_re_250_comparision.jpg Graphic file (type jpg)
+<use 32_ar_mesh_re_250_comparision.jpg>
+Package pdftex.def Info: 32_ar_mesh_re_250_comparision.jpg  used on input line 
+319.
+(pdftex.def)             Requested size: 390.0pt x 250.61429pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<35_100_100_re_250_streamlines.jpeg, id=122, 461.47406pt x 421.575pt>
+File: 35_100_100_re_250_streamlines.jpeg Graphic file (type jpg)
+<use 35_100_100_re_250_streamlines.jpeg>
+Package pdftex.def Info: 35_100_100_re_250_streamlines.jpeg  used on input line
+ 324.
+(pdftex.def)             Requested size: 312.00119pt x 285.02686pt.
+<36_100_100_re_250_vorticity.jpeg, id=123, 467.49657pt x 426.84468pt>
+File: 36_100_100_re_250_vorticity.jpeg Graphic file (type jpg)
+<use 36_100_100_re_250_vorticity.jpeg>
+Package pdftex.def Info: 36_100_100_re_250_vorticity.jpeg  used on input line 3
+26.
+(pdftex.def)             Requested size: 312.00119pt x 284.88373pt.
+
+LaTeX Warning: Float too large for page by 66.24391pt on input line 327.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./25_100_100_re_250_velocity_linear.jpeg> <./26_100_100_re_250_velocity_tv
+d.jpeg>] [23 <./27_uvalues_tvd_linear_re_250_100_100.jpg> <./28_vvalues_tvd_lin
+ear_re_250_100_100.jpg>] [24 <./29_rr_tvd_linear_re_250_100_100.jpg> <./30_ar_t
+vd_linear_re_250_100_100.jpg>] [25 <./33_uvel_mesh_re_250_comparision.jpg> <./3
+4_vvel_mesh_re_250_comparision.jpg>] [26 <./31_rr_mesh_re_250_comparision.jpg> 
+<./32_ar_mesh_re_250_comparision.jpg>] [27 <./35_100_100_re_250_streamlines.jpe
+g> <./36_100_100_re_250_vorticity.jpeg>]
+<37_uvel_re_400_comparision.jpg, id=143, 812.28468pt x 505.13719pt>
+File: 37_uvel_re_400_comparision.jpg Graphic file (type jpg)
+<use 37_uvel_re_400_comparision.jpg>
+Package pdftex.def Info: 37_uvel_re_400_comparision.jpg  used on input line 334
+.
+(pdftex.def)             Requested size: 272.99881pt x 169.76347pt.
+<38_vvel_re_400_comparision.jpg, id=144, 815.29594pt x 503.63156pt>
+File: 38_vvel_re_400_comparision.jpg Graphic file (type jpg)
+<use 38_vvel_re_400_comparision.jpg>
+Package pdftex.def Info: 38_vvel_re_400_comparision.jpg  used on input line 336
+.
+(pdftex.def)             Requested size: 272.99881pt x 168.635pt.
+ [28
+
+
+ <./37_uvel_re_400_comparision.jpg> <./38_vvel_re_400_comparision.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+[]\OT1/cmr/m/n/12 Re=100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+\OT1/cmr/m/n/12 50x50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+[]\OT1/cmr/m/n/12 Re=100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+\OT1/cmr/m/n/12 50x50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+[]\OT1/cmr/m/n/12 Re=100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+\OT1/cmr/m/n/12 50x50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+[]\OT1/cmr/m/n/12 Re=100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+\OT1/cmr/m/n/12 50x50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+[]\OT1/cmr/m/n/12 Re=250
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+\OT1/cmr/m/n/12 50x50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+[]\OT1/cmr/m/n/12 Re=250
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+\OT1/cmr/m/n/12 50x50
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--373
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--373
+
+ []
+
+
+Overfull \hbox (24.67024pt too wide) in paragraph at lines 341--373
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--373
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--373
+
+ []
+
+[29
+
+]
+<global_local_ar.jpg, id=151, 816.04875pt x 480.29437pt>
+File: global_local_ar.jpg Graphic file (type jpg)
+<use global_local_ar.jpg>
+Package pdftex.def Info: global_local_ar.jpg  used on input line 378.
+(pdftex.def)             Requested size: 390.0pt x 229.54196pt.
+<global_local_rr.jpg, id=152, 815.29594pt x 473.51906pt>
+File: global_local_rr.jpg Graphic file (type jpg)
+<use global_local_rr.jpg>
+Package pdftex.def Info: global_local_rr.jpg  used on input line 379.
+(pdftex.def)             Requested size: 390.0pt x 226.50623pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30] [31 <./global_local_ar.jpg> <./global_local_rr.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 384--387
+
+ []
+
+<43_grid3_umag_100.jpeg, id=160, 445.665pt x 188.20313pt>
+File: 43_grid3_umag_100.jpeg Graphic file (type jpg)
+<use 43_grid3_umag_100.jpeg>
+Package pdftex.def Info: 43_grid3_umag_100.jpeg  used on input line 390.
+(pdftex.def)             Requested size: 272.99881pt x 115.28618pt.
+<44_grid3_umag_re_250.jpeg, id=161, 456.95718pt x 213.04594pt>
+File: 44_grid3_umag_re_250.jpeg Graphic file (type jpg)
+<use 44_grid3_umag_re_250.jpeg>
+Package pdftex.def Info: 44_grid3_umag_re_250.jpeg  used on input line 392.
+(pdftex.def)             Requested size: 272.99881pt x 127.2824pt.
+<45_grid3_streamlines_100.jpeg, id=162, 444.15938pt x 162.6075pt>
+File: 45_grid3_streamlines_100.jpeg Graphic file (type jpg)
+<use 45_grid3_streamlines_100.jpeg>
+Package pdftex.def Info: 45_grid3_streamlines_100.jpeg  used on input line 394.
+
+(pdftex.def)             Requested size: 272.99881pt x 99.9447pt.
+<46_grid3_streamlines_250.jpeg, id=163, 449.42906pt x 139.27031pt>
+File: 46_grid3_streamlines_250.jpeg Graphic file (type jpg)
+<use 46_grid3_streamlines_250.jpeg>
+Package pdftex.def Info: 46_grid3_streamlines_250.jpeg  used on input line 396.
+
+(pdftex.def)             Requested size: 272.99881pt x 84.59987pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<51_grid3_rr_re_100.jpg, id=164, 814.54312pt x 476.53032pt>
+File: 51_grid3_rr_re_100.jpg Graphic file (type jpg)
+<use 51_grid3_rr_re_100.jpg>
+Package pdftex.def Info: 51_grid3_rr_re_100.jpg  used on input line 402.
+(pdftex.def)             Requested size: 390.0pt x 228.15752pt.
+<52_grid3_ar_re_100.jpg, id=165, 813.79031pt x 484.05844pt>
+File: 52_grid3_ar_re_100.jpg Graphic file (type jpg)
+<use 52_grid3_ar_re_100.jpg>
+Package pdftex.def Info: 52_grid3_ar_re_100.jpg  used on input line 404.
+(pdftex.def)             Requested size: 390.0pt x 231.9761pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<53_grid3_rr_re_250.jpg, id=166, 779.91376pt x 502.12593pt>
+File: 53_grid3_rr_re_250.jpg Graphic file (type jpg)
+<use 53_grid3_rr_re_250.jpg>
+Package pdftex.def Info: 53_grid3_rr_re_250.jpg  used on input line 409.
+(pdftex.def)             Requested size: 390.0pt x 251.08533pt.
+<54_grid3_ar_re_250.jpg, id=167, 786.68906pt x 510.40688pt>
+File: 54_grid3_ar_re_250.jpg Graphic file (type jpg)
+<use 54_grid3_ar_re_250.jpg>
+Package pdftex.def Info: 54_grid3_ar_re_250.jpg  used on input line 411.
+(pdftex.def)             Requested size: 390.0pt x 253.03769pt.
+
+LaTeX Warning: Float too large for page by 0.45634pt on input line 412.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<grid3_rr_comparision.jpg, id=168, 809.27344pt x 490.83376pt>
+File: grid3_rr_comparision.jpg Graphic file (type jpg)
+<use grid3_rr_comparision.jpg>
+Package pdftex.def Info: grid3_rr_comparision.jpg  used on input line 416.
+(pdftex.def)             Requested size: 390.0pt x 236.5412pt.
+<grid3_ar_comparision.jpg, id=169, 825.83531pt x 478.78876pt>
+File: grid3_ar_comparision.jpg Graphic file (type jpg)
+<use grid3_ar_comparision.jpg>
+Package pdftex.def Info: grid3_ar_comparision.jpg  used on input line 417.
+(pdftex.def)             Requested size: 390.0pt x 226.11198pt.
+[32
+
+] [33 <./43_grid3_umag_100.jpeg> <./44_grid3_umag_re_250.jpeg> <./45_grid3_stre
+amlines_100.jpeg> <./46_grid3_streamlines_250.jpeg>] [34 <./51_grid3_rr_re_100.
+jpg> <./52_grid3_ar_re_100.jpg>] [35 <./53_grid3_rr_re_250.jpg> <./54_grid3_ar_
+re_250.jpg>] [36 <./grid3_rr_comparision.jpg> <./grid3_ar_comparision.jpg>]
+<48_grid4_streamlines_100.jpeg, id=185, 425.33907pt x 132.495pt>
+File: 48_grid4_streamlines_100.jpeg Graphic file (type jpg)
+<use 48_grid4_streamlines_100.jpeg>
+Package pdftex.def Info: 48_grid4_streamlines_100.jpeg  used on input line 427.
+
+(pdftex.def)             Requested size: 272.99881pt x 85.04517pt.
+<49_grid4_streamlines_250.jpeg, id=186, 426.84468pt x 125.71968pt>
+File: 49_grid4_streamlines_250.jpeg Graphic file (type jpg)
+<use 49_grid4_streamlines_250.jpeg>
+Package pdftex.def Info: 49_grid4_streamlines_250.jpeg  used on input line 429.
+
+(pdftex.def)             Requested size: 272.99881pt x 80.41235pt.
+<47_grid4_streamlines_100.jpeg, id=187, 456.20438pt x 120.45pt>
+File: 47_grid4_streamlines_100.jpeg Graphic file (type jpg)
+<use 47_grid4_streamlines_100.jpeg>
+Package pdftex.def Info: 47_grid4_streamlines_100.jpeg  used on input line 431.
+
+(pdftex.def)             Requested size: 272.99881pt x 72.08124pt.
+<50_grid4_streamlines_250.jpeg, id=188, 426.09187pt x 82.80937pt>
+File: 50_grid4_streamlines_250.jpeg Graphic file (type jpg)
+<use 50_grid4_streamlines_250.jpeg>
+Package pdftex.def Info: 50_grid4_streamlines_250.jpeg  used on input line 433.
+
+(pdftex.def)             Requested size: 272.99881pt x 53.05972pt.
+
+[37
+
+ <./48_grid4_streamlines_100.jpeg> <./49_grid4_streamlines_250.jpeg> <./47_grid
+4_streamlines_100.jpeg> <./50_grid4_streamlines_250.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 439--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--448
+
+ []
+
+<55_immerssed_boundary_cylinder_domain.jpeg, id=193, 450.9347pt x 148.30406pt>
+File: 55_immerssed_boundary_cylinder_domain.jpeg Graphic file (type jpg)
+<use 55_immerssed_boundary_cylinder_domain.jpeg>
+Package pdftex.def Info: 55_immerssed_boundary_cylinder_domain.jpeg  used on in
+put line 451.
+(pdftex.def)             Requested size: 272.99881pt x 89.78871pt.
+<55_immerssed_boundary_cylinder.jpeg, id=194, 461.47406pt x 176.91093pt>
+File: 55_immerssed_boundary_cylinder.jpeg Graphic file (type jpg)
+<use 55_immerssed_boundary_cylinder.jpeg>
+Package pdftex.def Info: 55_immerssed_boundary_cylinder.jpeg  used on input lin
+e 453.
+(pdftex.def)             Requested size: 272.99881pt x 104.65727pt.
+<55_immerssed_boundary_cylinder_streamlines.jpeg, id=195, 445.665pt x 130.98938
+pt>
+File: 55_immerssed_boundary_cylinder_streamlines.jpeg Graphic file (type jpg)
+<use 55_immerssed_boundary_cylinder_streamlines.jpeg>
+Package pdftex.def Info: 55_immerssed_boundary_cylinder_streamlines.jpeg  used 
+on input line 455.
+(pdftex.def)             Requested size: 272.99881pt x 80.23918pt.
+<55_immerssed_boundary_cylinder_streamlines_zoomed.jpeg, id=196, 480.29437pt x 
+423.83344pt>
+File: 55_immerssed_boundary_cylinder_streamlines_zoomed.jpeg Graphic file (type
+ jpg)
+<use 55_immerssed_boundary_cylinder_streamlines_zoomed.jpeg>
+Package pdftex.def Info: 55_immerssed_boundary_cylinder_streamlines_zoomed.jpeg
+  used on input line 457.
+(pdftex.def)             Requested size: 272.99881pt x 240.90851pt.
+
+LaTeX Warning: Float too large for page by 61.70476pt on input line 458.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<57_immerssed_boundary_umag_domain.jpeg, id=197, 465.23813pt x 152.06813pt>
+File: 57_immerssed_boundary_umag_domain.jpeg Graphic file (type jpg)
+<use 57_immerssed_boundary_umag_domain.jpeg>
+Package pdftex.def Info: 57_immerssed_boundary_umag_domain.jpeg  used on input 
+line 462.
+(pdftex.def)             Requested size: 272.99881pt x 89.23445pt.
+<57_immerssed_boundary_umag.jpeg, id=198, 459.21562pt x 202.50656pt>
+File: 57_immerssed_boundary_umag.jpeg Graphic file (type jpg)
+<use 57_immerssed_boundary_umag.jpeg>
+Package pdftex.def Info: 57_immerssed_boundary_umag.jpeg  used on input line 46
+4.
+(pdftex.def)             Requested size: 272.99881pt x 120.39246pt.
+<57_immerssed_boundary_streamilnes.jpeg, id=199, 459.21562pt x 166.37157pt>
+File: 57_immerssed_boundary_streamilnes.jpeg Graphic file (type jpg)
+<use 57_immerssed_boundary_streamilnes.jpeg>
+Package pdftex.def Info: 57_immerssed_boundary_streamilnes.jpeg  used on input 
+line 466.
+(pdftex.def)             Requested size: 272.99881pt x 98.90979pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<56_immerssed_boundary_domain.jpeg, id=200, 461.47406pt x 112.92188pt>
+File: 56_immerssed_boundary_domain.jpeg Graphic file (type jpg)
+<use 56_immerssed_boundary_domain.jpeg>
+Package pdftex.def Info: 56_immerssed_boundary_domain.jpeg  used on input line 
+471.
+(pdftex.def)             Requested size: 272.99881pt x 66.8025pt.
+<56_immerssed_boundary_umag.jpeg, id=201, 464.4853pt x 185.19188pt>
+File: 56_immerssed_boundary_umag.jpeg Graphic file (type jpg)
+<use 56_immerssed_boundary_umag.jpeg>
+Package pdftex.def Info: 56_immerssed_boundary_umag.jpeg  used on input line 47
+3.
+(pdftex.def)             Requested size: 272.99881pt x 108.84685pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<58_immerssed_boundary_domain.jpeg, id=202, 432.86719pt x 420.06938pt>
+File: 58_immerssed_boundary_domain.jpeg Graphic file (type jpg)
+<use 58_immerssed_boundary_domain.jpeg>
+Package pdftex.def Info: 58_immerssed_boundary_domain.jpeg  used on input line 
+478.
+(pdftex.def)             Requested size: 272.99881pt x 264.93996pt.
+<58_immerssed_boundary_umag.jpeg, id=203, 499.8675pt x 429.10312pt>
+File: 58_immerssed_boundary_umag.jpeg Graphic file (type jpg)
+<use 58_immerssed_boundary_umag.jpeg>
+Package pdftex.def Info: 58_immerssed_boundary_umag.jpeg  used on input line 48
+0.
+(pdftex.def)             Requested size: 272.99881pt x 234.35745pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<58_immerssed_boundary_streamlines.jpeg, id=204, 461.47406pt x 418.56375pt>
+File: 58_immerssed_boundary_streamlines.jpeg Graphic file (type jpg)
+<use 58_immerssed_boundary_streamlines.jpeg>
+Package pdftex.def Info: 58_immerssed_boundary_streamlines.jpeg  used on input 
+line 485.
+(pdftex.def)             Requested size: 272.99881pt x 247.61469pt.
+<59_immerssed_boundary_umag.jpeg, id=205, 423.08063pt x 428.35031pt>
+File: 59_immerssed_boundary_umag.jpeg Graphic file (type jpg)
+<use 59_immerssed_boundary_umag.jpeg>
+Package pdftex.def Info: 59_immerssed_boundary_umag.jpeg  used on input line 48
+7.
+(pdftex.def)             Requested size: 272.99881pt x 276.40474pt.
+
+LaTeX Warning: Float too large for page by 20.35275pt on input line 488.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<59_immerssed_boundary_velocity.jpeg, id=206, 529.22719pt x 438.8897pt>
+File: 59_immerssed_boundary_velocity.jpeg Graphic file (type jpg)
+<use 59_immerssed_boundary_velocity.jpeg>
+Package pdftex.def Info: 59_immerssed_boundary_velocity.jpeg  used on input lin
+e 492.
+(pdftex.def)             Requested size: 272.99881pt x 226.39569pt.
+<59_immerssed_boundary_streamlines.jpeg, id=207, 465.99094pt x 424.58624pt>
+File: 59_immerssed_boundary_streamlines.jpeg Graphic file (type jpg)
+<use 59_immerssed_boundary_streamlines.jpeg>
+Package pdftex.def Info: 59_immerssed_boundary_streamlines.jpeg  used on input 
+line 494.
+(pdftex.def)             Requested size: 272.99881pt x 248.74799pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[38
+
+] [39 <./55_immerssed_boundary_cylinder_domain.jpeg> <./55_immerssed_boundary_c
+ylinder.jpeg> <./55_immerssed_boundary_cylinder_streamlines.jpeg> <./55_immerss
+ed_boundary_cylinder_streamlines_zoomed.jpeg>] [40 <./57_immerssed_boundary_uma
+g_domain.jpeg> <./57_immerssed_boundary_umag.jpeg> <./57_immerssed_boundary_str
+eamilnes.jpeg>] [41 <./56_immerssed_boundary_domain.jpeg> <./56_immerssed_bound
+ary_umag.jpeg>] [42 <./58_immerssed_boundary_domain.jpeg> <./58_immerssed_bound
+ary_umag.jpeg>] [43 <./58_immerssed_boundary_streamlines.jpeg> <./59_immerssed_
+boundary_umag.jpeg>] [44 <./59_immerssed_boundary_velocity.jpeg> <./59_immersse
+d_boundary_streamlines.jpeg>] (report.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 6.
+
+) [45
+
+] (report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3650 strings out of 479697
+ 65157 string characters out of 2861432
+ 332846 words of memory out of 3000000
+ 20727 multiletter control sequences out of 15000+200000
+ 409374 words of font info for 49 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 80i,12n,85p,1080b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Aaradhya-quadcore/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/Aaradhya-quadcore/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Aaradhya-quadcore/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Aara
+dhya-quadcore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+6.pfb><C:/Users/Aaradhya-quadcore/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi8.pfb><C:/Users/Aaradhya-quadcore/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Aaradhya-quadcore/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Aar
+adhya-quadcore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+17.pfb><C:/Users/Aaradhya-quadcore/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb><C:/Users/Aaradhya-quadcore/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Aaradhya-quadcore/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Aar
+adhya-quadcore/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y8.pfb><C:/Users/Aaradhya-quadcore/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb><C:/Users/Aaradhya-quadcore/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (45 pages, 6623197 bytes).
+PDF statistics:
+ 279 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 376 words of extra memory for PDF output out of 10000 (max. 10000000)
+
